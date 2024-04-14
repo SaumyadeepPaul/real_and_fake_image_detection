@@ -1,1 +1,0 @@
-# real_and_fake_image_detection
